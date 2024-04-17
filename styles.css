@@ -150,3 +150,23 @@ a.button {
 .button[href*="portfolio"] {
   background: #019fe9;
 }
+
+.footer {
+  background-color: #fffefe;
+  color: rgb(52, 52, 52);
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin-top: 3.2rem;
+}
+
+.footer p {
+  font-size: small;
+}
+
+.footer a {
+  text-decoration: none;
+  color: rgb(31, 142, 144);
+}
